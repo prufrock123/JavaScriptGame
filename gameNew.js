@@ -135,7 +135,7 @@
     };
 
     window.onload = function() {
-        new Game("screen");
+        new Game("space-invaders");
     };
 })();
 
